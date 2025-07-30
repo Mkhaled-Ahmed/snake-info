@@ -1,19 +1,17 @@
 # 🐍 Snake Info Page
 
-A simple HTML page about snakes, including images and basic information.  
-Built with **HTML5** and **CSS3**.
+A simple and clean **HTML & CSS** project that displays information about snakes.  
+Built as a practice project to learn and apply HTML5 and CSS3 concepts.
 
 ---
 
 ## 🔗 Live Demo
-[Click here to view the site]([https://YOUR_USERNAME.github.io/snake-info/](https://github.com/Mkhaled-Ahmed/snake-info))
+[👉 View the site here](https://mkhaled-ahmed.github.io/snake-info/)
 
 ---
 
 ## 📸 Preview
-![Snake Info Screenshot](
-<img width="1916" height="874" alt="image" src="https://github.com/user-attachments/assets/03fc4c5b-917c-472b-b037-803fb1e9a0ca" />
-
+![Snake Info Screenshot](<img width="1916" height="874" alt="image" src="https://github.com/user-attachments/assets/c2af18a8-5428-4c54-aacf-28e7e1ef27aa" />
 )
 
 ---
@@ -21,4 +19,4 @@ Built with **HTML5** and **CSS3**.
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mkhaled-Ahmed/snake-info
+   git clone https://github.com/Mkhaled-Ahmed/snake-info.git
