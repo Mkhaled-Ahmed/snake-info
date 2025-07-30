@@ -11,8 +11,8 @@ Built as a practice project to learn and apply HTML5 and CSS3 concepts.
 ---
 
 ## 📸 Preview
-![Snake Info Screenshot](<img width="1916" height="874" alt="image" src="https://github.com/user-attachments/assets/c2af18a8-5428-4c54-aacf-28e7e1ef27aa" />
-)
+![Snake Info Screenshot]<img width="1916" height="874" alt="image" src="https://github.com/user-attachments/assets/b77e5cf3-60c0-4a3c-9ee0-f8a961ae0bcd" />
+
 
 ---
 
